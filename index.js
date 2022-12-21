@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GitLab Terraform Plan Summarizer
-// @namespace    https://https://github.com/spacebarley/GitLab-Terraform-Plan-Summarizer
+// @namespace    https://github.com/spacebarley/GitLab-Terraform-Plan-Summarizer
 // @version      0.1
 // @description  Summarize Terraform plan's effect! Add additional logs in Terraform Plan Job page. If you host your own GitLab, change the @match to your GitLab's URL. (e.g. https://gitlab.yourdomain.com/**/jobs/*)
 // @author       spacebarley
